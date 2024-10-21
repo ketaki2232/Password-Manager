@@ -2,7 +2,7 @@
 ### Password Manager using React (using Vite frontend tool and Toastify for toast notification), Express and Mongo
 ### To run the project type ``` npm run dev ```
 ---
-### OUTPUT
+## OUTPUT
 
 - Home Page
 ![image](https://github.com/user-attachments/assets/bcc548c7-0553-4e30-ab10-43fcded4b513)
