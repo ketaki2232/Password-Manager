@@ -1,6 +1,6 @@
 # PassOP
 ### Password Manager using React (using Vite frontend tool and Toastify for toast notification), Express and Mongo
-### To run the project type ``` npm run dev ```
+- To run the project type ``` npm run dev ```
 ---
 ## OUTPUT
 
